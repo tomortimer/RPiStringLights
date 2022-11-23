@@ -1,0 +1,1 @@
+ps -fU root | grep "python3 string_lights.py" | grep -i -v -E "sudo" | awk '{print $2}' | sudo xargs kill -INT
