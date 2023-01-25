@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
-#50 LED RGB String Lights controlled with adafruit NeoPixel
-#Mostly written by beri(Microwave)
+#100 LED RGB String Lights controlled with adafruit NeoPixel
 
 from re import L
 import time
